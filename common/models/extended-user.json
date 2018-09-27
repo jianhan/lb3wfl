@@ -6,7 +6,7 @@
     "validateUpsert": true
   },
   "properties": {
-    "CompanyFullAddress": {
+    "companyFullAddress": {
       "type": "string",
       "required": true
     }

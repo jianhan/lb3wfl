@@ -19,7 +19,14 @@
   },
   "AccessToken": {
     "dataSource": "mongodb",
-    "public": false
+    "public": false,
+    "relations": {
+      "ExtendedUser": {
+        "type": "belongsTo",
+        "model": "ExtendedUser",
+        "foreignKey": "extendedUserId"
+      }
+    }
   },
   "ACL": {
     "dataSource": "mongodb",
