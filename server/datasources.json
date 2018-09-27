@@ -9,7 +9,7 @@
     "url": "",
     "database": "",
     "password": "",
-    "name": "",
+    "name": "mongodb",
     "user": "",
     "connector": "mongodb"
   }
