@@ -4,12 +4,12 @@
     "connector": "memory"
   },
   "mongodb": {
-    "host": "0.0.0.0",
+    "host": "",
     "port": 27017,
     "url": "",
-    "database": "lb3wfl",
+    "database": "",
     "password": "",
-    "name": "mongodb",
+    "name": "",
     "user": "",
     "connector": "mongodb"
   }
